@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<checkstyle version="4.3">
+<file name="/Users/messias/Documents/Projetos/Android/TesteAndroidv2/BankApp/app/src/main/java/com/wagnermessias/bankapp/core/extension/ViewBinding.kt">
+	<error line="1" column="1" severity="warning" message="File &apos;ViewBinding.kt&apos; with &apos;30&apos; functions detected. Defined threshold inside files is set to &apos;11&apos;" source="detekt.TooManyFunctions" />
+	<error line="1" column="1" severity="warning" message="The file name &apos;ViewBinding.kt&apos; does not match the name of the single top-level declaration &apos;Lazy&apos;." source="detekt.MatchingDeclarationName" />
+	<error line="163" column="1" severity="warning" message="The file ViewBinding.kt is not ending with a new line." source="detekt.NewLineAtEndOfFile" />
+</file>
+<file name="/Users/messias/Documents/Projetos/Android/TesteAndroidv2/BankApp/app/src/main/java/com/wagnermessias/bankapp/feature/statements/StatementsViewModel.kt">
+	<error line="28" column="22" severity="error" message="Caught exception is too generic. Prefer catching specific exceptions to the case that is currently handled." source="detekt.TooGenericExceptionCaught" />
+	<error line="41" column="1" severity="warning" message="The file StatementsViewModel.kt is not ending with a new line." source="detekt.NewLineAtEndOfFile" />
+</file>
+<file name="/Users/messias/Documents/Projetos/Android/TesteAndroidv2/BankApp/app/src/main/java/com/wagnermessias/bankapp/feature/login/LoginViewModel.kt">
+	<error line="46" column="22" severity="error" message="Caught exception is too generic. Prefer catching specific exceptions to the case that is currently handled." source="detekt.TooGenericExceptionCaught" />
+	<error line="60" column="1" severity="warning" message="The file LoginViewModel.kt is not ending with a new line." source="detekt.NewLineAtEndOfFile" />
+</file>
+<file name="/Users/messias/Documents/Projetos/Android/TesteAndroidv2/BankApp/app/src/main/java/com/wagnermessias/bankapp/core/data/local/BankPreferences.kt">
+	<error line="10" column="20" severity="warning" message="Function parameter names should match the pattern: [a-z][A-Za-z0-9]*" source="detekt.FunctionParameterNaming" />
+	<error line="18" column="24" severity="warning" message="Function parameter names should match the pattern: [a-z][A-Za-z0-9]*" source="detekt.FunctionParameterNaming" />
+</file>
+<file name="/Users/messias/Documents/Projetos/Android/TesteAndroidv2/BankApp/app/src/main/java/com/wagnermessias/bankapp/core/di/KoinModules.kt">
+	<error line="29" column="1" severity="warning" message="The file KoinModules.kt is not ending with a new line." source="detekt.NewLineAtEndOfFile" />
+</file>
+<file name="/Users/messias/Documents/Projetos/Android/TesteAndroidv2/BankApp/app/src/main/java/com/wagnermessias/bankapp/core/extension/Date.kt">
+	<error line="9" column="1" severity="warning" message="The file Date.kt is not ending with a new line." source="detekt.NewLineAtEndOfFile" />
+</file>
+<file name="/Users/messias/Documents/Projetos/Android/TesteAndroidv2/BankApp/app/src/main/java/com/wagnermessias/bankapp/core/extension/String.kt">
+	<error line="38" column="1" severity="warning" message="The file String.kt is not ending with a new line." source="detekt.NewLineAtEndOfFile" />
+	<error line="15" column="150" severity="warning" message="Line detected that is longer than the defined maximum line length in the code style." source="detekt.MaxLineLength" />
+	<error line="6" column="36" severity="warning" message="This expression contains a magic number. Consider defining it to a well named constant." source="detekt.MagicNumber" />
+	<error line="6" column="40" severity="warning" message="This expression contains a magic number. Consider defining it to a well named constant." source="detekt.MagicNumber" />
+	<error line="6" column="44" severity="warning" message="This expression contains a magic number. Consider defining it to a well named constant." source="detekt.MagicNumber" />
+	<error line="6" column="47" severity="warning" message="This expression contains a magic number. Consider defining it to a well named constant." source="detekt.MagicNumber" />
+	<error line="6" column="50" severity="warning" message="This expression contains a magic number. Consider defining it to a well named constant." source="detekt.MagicNumber" />
+	<error line="6" column="53" severity="warning" message="This expression contains a magic number. Consider defining it to a well named constant." source="detekt.MagicNumber" />
+	<error line="6" column="56" severity="warning" message="This expression contains a magic number. Consider defining it to a well named constant." source="detekt.MagicNumber" />
+	<error line="6" column="59" severity="warning" message="This expression contains a magic number. Consider defining it to a well named constant." source="detekt.MagicNumber" />
+	<error line="6" column="62" severity="warning" message="This expression contains a magic number. Consider defining it to a well named constant." source="detekt.MagicNumber" />
+	<error line="9" column="31" severity="warning" message="This expression contains a magic number. Consider defining it to a well named constant." source="detekt.MagicNumber" />
+	<error line="10" column="52" severity="warning" message="This expression contains a magic number. Consider defining it to a well named constant." source="detekt.MagicNumber" />
+	<error line="10" column="73" severity="warning" message="This expression contains a magic number. Consider defining it to a well named constant." source="detekt.MagicNumber" />
+	<error line="10" column="75" severity="warning" message="This expression contains a magic number. Consider defining it to a well named constant." source="detekt.MagicNumber" />
+	<error line="21" column="62" severity="warning" message="This expression contains a magic number. Consider defining it to a well named constant." source="detekt.MagicNumber" />
+	<error line="22" column="62" severity="warning" message="This expression contains a magic number. Consider defining it to a well named constant." source="detekt.MagicNumber" />
+	<error line="23" column="35" severity="warning" message="This expression contains a magic number. Consider defining it to a well named constant." source="detekt.MagicNumber" />
+	<error line="37" column="22" severity="warning" message="This expression contains a magic number. Consider defining it to a well named constant." source="detekt.MagicNumber" />
+</file>
+<file name="/Users/messias/Documents/Projetos/Android/TesteAndroidv2/BankApp/app/src/main/java/com/wagnermessias/bankapp/core/extension/Float.kt">
+	<error line="14" column="1" severity="warning" message="The file Float.kt is not ending with a new line." source="detekt.NewLineAtEndOfFile" />
+</file>
+<file name="/Users/messias/Documents/Projetos/Android/TesteAndroidv2/BankApp/app/src/main/java/com/wagnermessias/bankapp/core/model/UserAccount.kt">
+	<error line="9" column="15" severity="warning" message="The file UserAccount.kt is not ending with a new line." source="detekt.NewLineAtEndOfFile" />
+</file>
+<file name="/Users/messias/Documents/Projetos/Android/TesteAndroidv2/BankApp/app/src/main/java/com/wagnermessias/bankapp/core/model/Account.kt">
+	<error line="21" column="15" severity="warning" message="The file Account.kt is not ending with a new line." source="detekt.NewLineAtEndOfFile" />
+</file>
+<file name="/Users/messias/Documents/Projetos/Android/TesteAndroidv2/BankApp/app/src/main/java/com/wagnermessias/bankapp/core/model/Statements.kt">
+	<error line="9" column="15" severity="warning" message="The file Statements.kt is not ending with a new line." source="detekt.NewLineAtEndOfFile" />
+</file>
+<file name="/Users/messias/Documents/Projetos/Android/TesteAndroidv2/BankApp/app/src/main/java/com/wagnermessias/bankapp/core/model/Statement.kt">
+	<error line="19" column="15" severity="warning" message="The file Statement.kt is not ending with a new line." source="detekt.NewLineAtEndOfFile" />
+</file>
+<file name="/Users/messias/Documents/Projetos/Android/TesteAndroidv2/BankApp/app/src/main/java/com/wagnermessias/bankapp/core/BankAppApplication.kt">
+	<error line="20" column="1" severity="warning" message="The file BankAppApplication.kt is not ending with a new line." source="detekt.NewLineAtEndOfFile" />
+</file>
+<file name="/Users/messias/Documents/Projetos/Android/TesteAndroidv2/BankApp/app/src/main/java/com/wagnermessias/bankapp/core/data/UserRepository.kt">
+	<error line="29" column="1" severity="warning" message="The file UserRepository.kt is not ending with a new line." source="detekt.NewLineAtEndOfFile" />
+</file>
+<file name="/Users/messias/Documents/Projetos/Android/TesteAndroidv2/BankApp/app/src/main/java/com/wagnermessias/bankapp/core/data/remote/BankApi.kt">
+	<error line="25" column="1" severity="warning" message="The file BankApi.kt is not ending with a new line." source="detekt.NewLineAtEndOfFile" />
+</file>
+<file name="/Users/messias/Documents/Projetos/Android/TesteAndroidv2/BankApp/app/src/main/java/com/wagnermessias/bankapp/core/interactor/UserInteractor.kt">
+	<error line="29" column="1" severity="warning" message="The file UserInteractor.kt is not ending with a new line." source="detekt.NewLineAtEndOfFile" />
+</file>
+<file name="/Users/messias/Documents/Projetos/Android/TesteAndroidv2/BankApp/app/src/main/java/com/wagnermessias/bankapp/core/base/BaseViewModel.kt">
+	<error line="25" column="1" severity="warning" message="The file BaseViewModel.kt is not ending with a new line." source="detekt.NewLineAtEndOfFile" />
+</file>
+<file name="/Users/messias/Documents/Projetos/Android/TesteAndroidv2/BankApp/app/src/main/java/com/wagnermessias/bankapp/feature/statements/StatementsAdapter.kt">
+	<error line="42" column="1" severity="warning" message="The file StatementsAdapter.kt is not ending with a new line." source="detekt.NewLineAtEndOfFile" />
+</file>
+<file name="/Users/messias/Documents/Projetos/Android/TesteAndroidv2/BankApp/app/src/main/java/com/wagnermessias/bankapp/feature/login/LoginHelper.kt">
+	<error line="25" column="1" severity="warning" message="The file LoginHelper.kt is not ending with a new line." source="detekt.NewLineAtEndOfFile" />
+</file>
+</checkstyle>

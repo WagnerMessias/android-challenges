@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BankApp</string>
+
+    <string name="login_hint_user">User</string>
+    <string name="login_hint_password">Password</string>
+    <string name="login_button_text">Login</string>
+    <string name="login_user_or_pasword_invalid">Usuário ou senha inválido</string>
+    <string name="login_success">Autenticando...</string>
+    <string name="statements_exit">Sair</string>
+    <string name="statements_news">Recentes</string>
+    <string name="statements_account">Conta</string>
+    <string name="statements_balance">Saldo</string>
+
+</resources>
